@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230971462254",
+    "firebase_url": "https://valoranttournament-73915-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "valoranttournament-73915",
+    "storage_bucket": "valoranttournament-73915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230971462254:android:10218a382305d4582f4c7f",
+        "android_client_info": {
+          "package_name": "com.example.valoranttournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy53t0JAq_H7rXATkHNuBlmhMIzrdpExs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
